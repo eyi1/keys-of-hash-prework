@@ -10,7 +10,7 @@ class Hash
   # end
   #     arr
 arguments = hash.keys
-  
+
     # arr << arguments
     # arguments.each do |key, value|
     #   arr.push(value)
